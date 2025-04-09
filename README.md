@@ -26,6 +26,12 @@ Code:** Designed for educational purposes, emphasizing clarity and maintainabili
 ### Resources:
 * J.M. Meiners' LC-3 VM Article: https://www.jmeiners.com/lc3-vm/
 * LC-3 ISA Documentation : lc3-isa.pdf
+
+## Building
+    ```
+        gcc main.c -o lc3
+        ./lc3 <image_path>
+    ```
 <!-- ## Building
 
 1.  **Clone the repository:**
